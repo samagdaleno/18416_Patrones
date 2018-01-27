@@ -1,0 +1,6 @@
+c:\users\sam\documents\visual studio 2015\Projects\Ejercicio_Personas\Ejercicio_Personas\bin\Debug\Ejercicio_Personas.exe.config
+c:\users\sam\documents\visual studio 2015\Projects\Ejercicio_Personas\Ejercicio_Personas\bin\Debug\Ejercicio_Personas.exe
+c:\users\sam\documents\visual studio 2015\Projects\Ejercicio_Personas\Ejercicio_Personas\bin\Debug\Ejercicio_Personas.pdb
+c:\users\sam\documents\visual studio 2015\Projects\Ejercicio_Personas\Ejercicio_Personas\obj\Debug\Ejercicio_Personas.csprojResolveAssemblyReference.cache
+c:\users\sam\documents\visual studio 2015\Projects\Ejercicio_Personas\Ejercicio_Personas\obj\Debug\Ejercicio_Personas.exe
+c:\users\sam\documents\visual studio 2015\Projects\Ejercicio_Personas\Ejercicio_Personas\obj\Debug\Ejercicio_Personas.pdb
