@@ -1,0 +1,6 @@
+c:\users\sam\documents\visual studio 2015\Projects\26-Ene-2018 Practica 03 Tarea\26-Ene-2018 Practica 03 Tarea\bin\Debug\26-Ene-2018 Practica 03 Tarea.exe.config
+c:\users\sam\documents\visual studio 2015\Projects\26-Ene-2018 Practica 03 Tarea\26-Ene-2018 Practica 03 Tarea\bin\Debug\26-Ene-2018 Practica 03 Tarea.exe
+c:\users\sam\documents\visual studio 2015\Projects\26-Ene-2018 Practica 03 Tarea\26-Ene-2018 Practica 03 Tarea\bin\Debug\26-Ene-2018 Practica 03 Tarea.pdb
+c:\users\sam\documents\visual studio 2015\Projects\26-Ene-2018 Practica 03 Tarea\26-Ene-2018 Practica 03 Tarea\obj\Debug\26-Ene-2018 Practica 03 Tarea.csprojResolveAssemblyReference.cache
+c:\users\sam\documents\visual studio 2015\Projects\26-Ene-2018 Practica 03 Tarea\26-Ene-2018 Practica 03 Tarea\obj\Debug\26-Ene-2018 Practica 03 Tarea.exe
+c:\users\sam\documents\visual studio 2015\Projects\26-Ene-2018 Practica 03 Tarea\26-Ene-2018 Practica 03 Tarea\obj\Debug\26-Ene-2018 Practica 03 Tarea.pdb
