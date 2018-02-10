@@ -1,0 +1,6 @@
+c:\users\sam\documents\visual studio 2015\Projects\02-Feb-2018 Practica 04\02-Feb-2018 Practica 04\bin\Debug\02-Feb-2018 Practica 04.exe.config
+c:\users\sam\documents\visual studio 2015\Projects\02-Feb-2018 Practica 04\02-Feb-2018 Practica 04\bin\Debug\02-Feb-2018 Practica 04.exe
+c:\users\sam\documents\visual studio 2015\Projects\02-Feb-2018 Practica 04\02-Feb-2018 Practica 04\bin\Debug\02-Feb-2018 Practica 04.pdb
+c:\users\sam\documents\visual studio 2015\Projects\02-Feb-2018 Practica 04\02-Feb-2018 Practica 04\obj\Debug\02-Feb-2018 Practica 04.csprojResolveAssemblyReference.cache
+c:\users\sam\documents\visual studio 2015\Projects\02-Feb-2018 Practica 04\02-Feb-2018 Practica 04\obj\Debug\02-Feb-2018 Practica 04.exe
+c:\users\sam\documents\visual studio 2015\Projects\02-Feb-2018 Practica 04\02-Feb-2018 Practica 04\obj\Debug\02-Feb-2018 Practica 04.pdb
