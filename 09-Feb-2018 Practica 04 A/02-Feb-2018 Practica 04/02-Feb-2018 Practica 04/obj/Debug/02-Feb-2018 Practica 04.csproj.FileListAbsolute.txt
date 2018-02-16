@@ -4,3 +4,6 @@ c:\users\sam\documents\visual studio 2015\Projects\02-Feb-2018 Practica 04\02-Fe
 c:\users\sam\documents\visual studio 2015\Projects\02-Feb-2018 Practica 04\02-Feb-2018 Practica 04\obj\Debug\02-Feb-2018 Practica 04.csprojResolveAssemblyReference.cache
 c:\users\sam\documents\visual studio 2015\Projects\02-Feb-2018 Practica 04\02-Feb-2018 Practica 04\obj\Debug\02-Feb-2018 Practica 04.exe
 c:\users\sam\documents\visual studio 2015\Projects\02-Feb-2018 Practica 04\02-Feb-2018 Practica 04\obj\Debug\02-Feb-2018 Practica 04.pdb
+C:\Users\Sam\Documents\18416_Patrones\09-Feb-2018 Practica 04 A\02-Feb-2018 Practica 04\02-Feb-2018 Practica 04\bin\Debug\02-Feb-2018 Practica 04.exe.config
+C:\Users\Sam\Documents\18416_Patrones\09-Feb-2018 Practica 04 A\02-Feb-2018 Practica 04\02-Feb-2018 Practica 04\obj\Debug\02-Feb-2018 Practica 04.exe
+C:\Users\Sam\Documents\18416_Patrones\09-Feb-2018 Practica 04 A\02-Feb-2018 Practica 04\02-Feb-2018 Practica 04\obj\Debug\02-Feb-2018 Practica 04.pdb
