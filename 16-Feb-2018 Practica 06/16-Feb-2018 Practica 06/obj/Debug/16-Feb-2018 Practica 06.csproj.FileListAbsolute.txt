@@ -1,0 +1,5 @@
+c:\users\sam\documents\visual studio 2015\Projects\16-Feb-2018 Practica 06\16-Feb-2018 Practica 06\bin\Debug\16-Feb-2018 Practica 06.exe.config
+c:\users\sam\documents\visual studio 2015\Projects\16-Feb-2018 Practica 06\16-Feb-2018 Practica 06\bin\Debug\16-Feb-2018 Practica 06.exe
+c:\users\sam\documents\visual studio 2015\Projects\16-Feb-2018 Practica 06\16-Feb-2018 Practica 06\bin\Debug\16-Feb-2018 Practica 06.pdb
+c:\users\sam\documents\visual studio 2015\Projects\16-Feb-2018 Practica 06\16-Feb-2018 Practica 06\obj\Debug\16-Feb-2018 Practica 06.exe
+c:\users\sam\documents\visual studio 2015\Projects\16-Feb-2018 Practica 06\16-Feb-2018 Practica 06\obj\Debug\16-Feb-2018 Practica 06.pdb
