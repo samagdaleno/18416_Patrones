@@ -1,0 +1,3 @@
+c:\users\sam\documents\visual studio 2015\Projects\18-03-09 Factory 01\18-03-09 Factory 01\bin\Debug\18-03-09 Factory 01.exe.config
+C:\Users\Sam\Documents\18416_Patrones\Parcial 2\18-03-09 Factory 01\18-03-09 Factory 01\bin\Debug\18-03-09 Factory 01.exe.config
+C:\Users\Sam\Documents\18416_Patrones\Parcial 2\18-03-09 Factory 02\18-03-09 Factory 01\bin\Debug\18-03-09 Factory 01.exe.config
