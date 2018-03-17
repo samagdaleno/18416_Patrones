@@ -13,5 +13,7 @@ namespace _18_03_09_Factory_01
         public void box() { }
         public void bake() { }
         public void garnish() { }
+        abstract public String describe();
+
     }
 }

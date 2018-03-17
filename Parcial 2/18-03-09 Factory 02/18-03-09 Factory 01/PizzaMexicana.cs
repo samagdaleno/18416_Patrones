@@ -8,5 +8,12 @@ namespace _18_03_09_Factory_01
 {
     class PizzaMexicana : Pizza
     {
+        public PizzaMexicana() : base()
+        {
+        }
+        override public String describe()
+        {
+            return "Mexican pizza";
+        }
     }
 }
