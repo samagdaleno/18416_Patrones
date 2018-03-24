@@ -16,5 +16,20 @@ namespace _18_03_16_Command_01
         public void Off() {
             Console.WriteLine("INSTRUCCIONES INTERNAS DE OFF");
         }
+
+        public void Slow()
+        {
+            Console.WriteLine("INSTRUCCIONES INTERNAS DE SLOW");
+        }
+
+        public void Medium()
+        {
+            Console.WriteLine("INSTRUCCIONES INTERNAS DE MEDIUM");
+        }
+
+        public void High()
+        {
+            Console.WriteLine("INSTRUCCIONES INTERNAS DE HIGH");
+        }
     }
 }

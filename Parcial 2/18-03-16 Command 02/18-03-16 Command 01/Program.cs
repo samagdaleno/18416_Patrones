@@ -11,8 +11,7 @@ namespace _18_03_16_Command_01
         static void Main(string[] args)
         {
             Client samClient = new Client();
-            samClient.turnOn();
-            samClient.turnOff();
+            samClient.action(4);
 
             Console.ReadKey();
         }

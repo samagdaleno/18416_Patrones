@@ -20,5 +20,9 @@ namespace _18_03_16_Command_01
         public void pressButton(int index) {
             commands[index].execute();
         }
+
+        public void pressUndo(int index) {
+            commands[index].undo();
+        }
     }
 }

@@ -6,21 +6,22 @@ using System.Threading.Tasks;
 
 namespace _18_03_16_Command_01
 {
-    class OffCommand : ICommand 
+    class HighCommand : ICommand
     {
         Reciever reciever;
 
-        public OffCommand(Reciever reciever)
+        public HighCommand(Reciever reciever)
         {
             this.reciever = reciever;
         }
         public void execute()
         {
             Console.WriteLine("Executando OFF.");
-            reciever.Off();
+            reciever.On();
         }
 
-        public void undo(){
+        public void undo()
+        {
         }
     }
 }

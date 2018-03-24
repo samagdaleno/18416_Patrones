@@ -44,14 +44,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Client.cs" />
+    <Compile Include="HighCommand.cs" />
     <Compile Include="ICommand.cs" />
+    <Compile Include="MediumCommand.cs" />
     <Compile Include="NullCommand.cs" />
     <Compile Include="OffCommand.cs" />
     <Compile Include="OnCommand.cs" />
     <Compile Include="Invoker.cs" />
+    <Compile Include="PartyCommand.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Reciever.cs" />
+    <Compile Include="SlowCommand.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
